@@ -1,4 +1,4 @@
-![Фото](img\L5VvvJkxm3E.png)
+![Фото](/img/L5VvvJkxm3E.png)
 
 ## **ABOUT ME:**
 
